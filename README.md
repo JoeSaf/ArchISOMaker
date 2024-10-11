@@ -1,6 +1,9 @@
 # ArchISOMaker
 
 A custom Arch Linux ISO Maker.
+## Prerequisites ( needed to have before running the build )
+
+* Run `$ sudo pacman -S archiso`
 
 ## Instructions (Generating the ISO file)
 
